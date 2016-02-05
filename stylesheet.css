@@ -1,0 +1,8 @@
+div {
+	float: left;
+}
+
+#applePrice, #orangePrice, #bananaPrice, #grapePrice {
+	float: none;
+
+}
